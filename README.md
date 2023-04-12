@@ -196,6 +196,8 @@ const ItemTouch = ({item, onPress, backgroundColor, textColor}) => (
 ```
 ### Compilando la app para android:
 
+https://docs.expo.dev/archive/classic-updates/building-standalone-apps/
+
 ```
 expo build:android -t apk
 ```
