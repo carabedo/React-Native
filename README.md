@@ -98,9 +98,8 @@ Si la applicacion en el celular no cambio, forza la recarga agitando el celular.
 
 Vamos a generar una interfaz para mostrar resultados de una API, trabajemos con el siguiente ejemplo:
 
-```json
-[{
-    id: 'jaredpalmer.formik',
+```js
+[{  id: 'jaredpalmer.formik',
     fullName: 'jaredpalmer/formik',
     description: 'Build forms in React, without the tears',
     language: 'TypeScript',
