@@ -99,8 +99,7 @@ Si la applicacion en el celular no cambio, forza la recarga agitando el celular.
 Vamos a generar una interfaz para mostrar resultados de una API, trabajemos con el siguiente ejemplo:
 
 ```json
-...
-,{
+[{
     id: 'jaredpalmer.formik',
     fullName: 'jaredpalmer/formik',
     description: 'Build forms in React, without the tears',
@@ -110,8 +109,7 @@ Vamos a generar una interfaz para mostrar resultados de una API, trabajemos con 
     ratingAverage: 88,
     reviewCount: 4,
     ownerAvatarUrl: 'https://avatars2.githubusercontent.com/u/4060187?v=4',
-  },
-  ...
+  }]
   ```
 
 Para esto vamos a usar un componente nativo `Flatlist`: [doc](https://reactnative.dev/docs/flatlist?language=javascript)
