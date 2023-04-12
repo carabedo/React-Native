@@ -20,15 +20,15 @@ Vamos a crear una app que liste items de una api.
 
 Creamos nuestro proyecto `app`:
 
-````
+```bash
 npx create-expo-app app
 ```
 
 Para visualizar nuestro proyecto mientras lo desarrollamos usamos el servidor `expo`:
 
-```
+```bash
 npx expo start
-````
+```
 
 Luego de descargar la app `expo go` scaneamos el codigo QR que nos aparece en consola luego de haber iniciado el servidor. Ahora podemos ver en vivo el desarrollo de nuestra app.
 
