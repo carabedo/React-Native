@@ -1,18 +1,10 @@
 # react-native
 
-Proyecto de rediseñar la app de trenes.
-
-## api trenes
-
-aws lambdas:
+Proyecto de rediseñar la app de trenes, usando nuestra [api trenes]() con el endpoint en:
 
 ```
 URL
 ```
-
-## app trenes
- 
-
 
 ## apps con react native
 
@@ -201,4 +193,9 @@ const ItemTouch = ({item, onPress, backgroundColor, textColor}) => (
   );
   
 
+```
+### compilando la app para android:
+
+```
+expo build:android -t apk
 ```
