@@ -6,7 +6,7 @@ Proyecto de rediseñar la app de trenes, usando nuestra [api trenes]() con el en
 URL
 ```
 
-## apps con react native
+## Apps con react native
 
 Vamos a crear una app que liste items de una api.
 
@@ -194,7 +194,7 @@ const ItemTouch = ({item, onPress, backgroundColor, textColor}) => (
   
 
 ```
-### compilando la app para android:
+### Compilando la app para android:
 
 ```
 expo build:android -t apk
